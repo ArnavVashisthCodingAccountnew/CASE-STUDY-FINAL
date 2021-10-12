@@ -1,5 +1,5 @@
 function disc1(){
-    alert("Microsoft Azure:  a close up of a device        Moblinet : Moniter   Aazure    IS MORE ACCURATE");
+    alert("Microsoft Azure:  a close up of a device        Moblinet : Moniter   Azure    IS MORE ACCURATE");
 }
 function disc2(){
     alert("Microsoft Azure:  a close up of a remote control        Moblinet : CD,Laptop   Azure  IS MORE ACCURATE");
